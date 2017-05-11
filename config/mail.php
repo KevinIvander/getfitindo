@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'driver' => env('MAIL_DRIVER', 'smtp'),
+    'driver' => 'smtp',
 
     /*
     |--------------------------------------------------------------------------
@@ -55,10 +55,8 @@ return [
     |
     */
 
-    'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'getfit.yk@gmail.com'),
-        'name' => env('MAIL_FROM_NAME', 'admin_123'),
-    ],
+    'from' => ['address' => null, 'name' => null],
+
 
     /*
     |--------------------------------------------------------------------------
@@ -71,7 +69,7 @@ return [
     |
     */
 
-    'encryption' => env('MAIL_ENCRYPTION', 'tls'),
+    'encryption' => 'tls',
 
     /*
     |--------------------------------------------------------------------------
@@ -84,9 +82,9 @@ return [
     |
     */
 
-    'username' => env('MAIL_USERNAME'),
+    'username' => 'getfit.yk@gmail.com',
 
-    'password' => env('MAIL_PASSWORD'),
+    'password' => 'fsfnffxgxkmxffkn',
 
     /*
     |--------------------------------------------------------------------------

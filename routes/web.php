@@ -25,9 +25,7 @@ Route::get('/class', 'ClassController@index');
 
 Route::get('/team', 'TeamController@index');
 
-Route::get('/eventandtips', function () {
-	return view('eventandtips.eventandtips');
-});
+Route::get('/eventandtips', 'EventController@index');
 
 Route::get('/contact', function () {
 	return view('contact.contact');

@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+use App\Models\Tip;
+
 class TipController extends Controller
 {
     /**
@@ -13,7 +15,8 @@ class TipController extends Controller
      */
     public function index()
     {
-        //
+        $tips = Tip::orderBy('id','DESC');
+        return view('eventandtips.eventandtips')->with('tips',$tips);
     }
 
     /**

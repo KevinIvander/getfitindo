@@ -55,7 +55,8 @@
                     </div>
                 </div>
                 <!-- end team member -->
-            @if($index%4 == 1)
+            <?php $index++;?>
+            @if($index%4 == 0)
             </div><div class="row four-column">
             @endif
             @endforeach

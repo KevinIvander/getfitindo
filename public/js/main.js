@@ -293,30 +293,30 @@ $(document).ready(function () {
         }else{
             var section_id = $(this).closest("footer").attr('id');
         }
-        var submit_loader = '<div class="loading text-deep-green display-inline-block margin-five no-margin-tb no-margin-right" id="loading">Loading...</div>';
-        $('#' + section_id).find('form').find('button').after(submit_loader);
-        $('#' + section_id).find('form input, form select,form textarea').each(
-                function (index) {
+        // var submit_loader = '<div class="loading text-deep-green display-inline-block margin-five no-margin-tb no-margin-right" id="loading">Loading...</div>';
+        // $('#' + section_id).find('form').find('button').after(submit_loader);
+        // $('#' + section_id).find('form input, form select,form textarea').each(
+        //         function (index) {
                     
-                    if ($(this).is('[data-email="required"]')) {
-                        var required_val = $(this).val();
-                        if (required_val != '') {
-                            name_attr.push($(this).attr('name'));
-                            values.push($(this).val());
-                            tz_process = true;
-                        } else {
-                            $('#loading').remove();
-                            $(this).addClass('tz_input_error');
-                            tz_process = false;
-                        }
-                    }
+        //             if ($(this).is('[data-email="required"]')) {
+        //                 var required_val = $(this).val();
+        //                 if (required_val != '') {
+        //                     name_attr.push($(this).attr('name'));
+        //                     values.push($(this).val());
+        //                     tz_process = true;
+        //                 } else {
+        //                     $('#loading').remove();
+        //                     $(this).addClass('tz_input_error');
+        //                     tz_process = false;
+        //                 }
+        //             }
 
-                    if (!$(this).is('[data-email="required"]')) {
-                        name_attr.push($(this).attr('name'));
-                        values.push($(this).val());
-                    }
+        //             if (!$(this).is('[data-email="required"]')) {
+        //                 name_attr.push($(this).attr('name'));
+        //                 values.push($(this).val());
+        //             }
 
-                });
+        //         });
         
         var captcha_length = $('.g-recaptcha').length;
         if (captcha_length >= 1) {
@@ -406,114 +406,114 @@ $(document).ready(function () {
     Event Contact Form 
     ============================================================ */
 
-    $('.default-submit').on('click', function (event) {
-        event.preventDefault();
-        var tz_process = "";
-        if($(this).closest("section").attr('id') !== undefined)
-        {
-            var section_id = $(this).closest("section").attr('id');
-        }else{
-            var section_id = $(this).closest("footer").attr('id');
-        }
-        var submit_loader = '<div class="loading text-deep-green display-inline-block margin-five no-margin-tb no-margin-right" id="loading">Loading...</div>';
-        $('#' + section_id).find('form').find('button').after(submit_loader);
-        var name = $('#' + section_id).find('[name=name]').val();
-        var email = $('#' + section_id).find('[name=email]').val();
-        var comment = $('#' + section_id).find('[name=comment]').val();
-        if(name == "")
-        {
-            $('#' + section_id).find('[name=name]').addClass('tz_input_error');
-            $('#loading').remove();
-            tz_process = false;
-        }else{
-             $('#' + section_id).find('[name=name]').removeClass('tz_input_error');
-             tz_process = true;
-        }
-        if(email == "")
-        {
-            $('#' + section_id).find('[name=email]').addClass('tz_input_error');
-            $('#loading').remove();
-            tz_process = false;
-        }else if(email != ''){
+    // $('.default-submit').on('click', function (event) {
+    //     event.preventDefault();
+    //     var tz_process = "";
+    //     if($(this).closest("section").attr('id') !== undefined)
+    //     {
+    //         var section_id = $(this).closest("section").attr('id');
+    //     }else{
+    //         var section_id = $(this).closest("footer").attr('id');
+    //     }
+    //     var submit_loader = '<div class="loading text-deep-green display-inline-block margin-five no-margin-tb no-margin-right" id="loading">Loading...</div>';
+    //     $('#' + section_id).find('form').find('button').after(submit_loader);
+    //     var name = $('#' + section_id).find('[name=name]').val();
+    //     var email = $('#' + section_id).find('[name=email]').val();
+    //     var comment = $('#' + section_id).find('[name=comment]').val();
+    //     if(name == "")
+    //     {
+    //         $('#' + section_id).find('[name=name]').addClass('tz_input_error');
+    //         $('#loading').remove();
+    //         tz_process = false;
+    //     }else{
+    //          $('#' + section_id).find('[name=name]').removeClass('tz_input_error');
+    //          tz_process = true;
+    //     }
+    //     if(email == "")
+    //     {
+    //         $('#' + section_id).find('[name=email]').addClass('tz_input_error');
+    //         $('#loading').remove();
+    //         tz_process = false;
+    //     }else if(email != ''){
 
-            if(IsEmail(email)==false)
-            {
-                $('#' + section_id).find('[name=email]').addClass('tz_input_error');
-                $('#loading').remove();
-                tz_process = false;
-            }else{
-                $('#' + section_id).find('[name=email]').removeClass('tz_input_error');
-                tz_process = true;
-            }
-        }
+    //         if(IsEmail(email)==false)
+    //         {
+    //             $('#' + section_id).find('[name=email]').addClass('tz_input_error');
+    //             $('#loading').remove();
+    //             tz_process = false;
+    //         }else{
+    //             $('#' + section_id).find('[name=email]').removeClass('tz_input_error');
+    //             tz_process = true;
+    //         }
+    //     }
 
-        var captcha_length = $('.g-recaptcha').length;
-        if (captcha_length >= 1) {
-            var response = grecaptcha.getResponse();
-            //recaptcha failed validation
-            if (response.length == 0) {
-                $('#loading').remove();
-                $('#google-recaptcha-error').remove();
-                $('#' + section_id).find('.g-recaptcha').after('<span class="google-recaptcha-error" id="google-recaptcha-error">Invalid recaptcha</span>');
-                tz_process = false;
-            } else {
-                $('#google-recaptcha-error').remove();
-                $('#recaptcha-error').hide();
-                tz_process = true;
-            }
-        }
+    //     var captcha_length = $('.g-recaptcha').length;
+    //     if (captcha_length >= 1) {
+    //         var response = grecaptcha.getResponse();
+    //         //recaptcha failed validation
+    //         if (response.length == 0) {
+    //             $('#loading').remove();
+    //             $('#google-recaptcha-error').remove();
+    //             $('#' + section_id).find('.g-recaptcha').after('<span class="google-recaptcha-error" id="google-recaptcha-error">Invalid recaptcha</span>');
+    //             tz_process = false;
+    //         } else {
+    //             $('#google-recaptcha-error').remove();
+    //             $('#recaptcha-error').hide();
+    //             tz_process = true;
+    //         }
+    //     }
         
-        if(tz_process) 
-        {
-            localStorage.setItem('tz_section',section_id);
-            $.post("tz_mail/sport-gym-contact.php", {
-                data: { name: name, email: email,comment:comment},
-                type: "POST",
-            }, function (data) {
-                $('#loading').remove();
-                var tz_form_output = '';
-                if(data) 
-                {
-                    if(data.type == "tz_message") 
-                    {
-                       $('#error').remove(); 
-                       $('#success').remove();
-                       $('#google-recaptcha-error').remove(); 
-                       var tz_form_output = '<div id="success" class="no-margin-lr alt-font">'+data.text+'</div>';
-                    } else if (data.type == "tz_error") {
-                       $('#error').remove(); 
-                       $('#success').remove();
-                       $('#google-recaptcha-error').remove(); 
-                       var tz_form_output = '<div id="error" class="no-margin-lr alt-font">'+data.text+'</div>';
-                    }else{
-                        var tz_form_output = '';
-                    } 
-                }
+    //     if(tz_process) 
+    //     {
+    //         localStorage.setItem('tz_section',section_id);
+    //         $.post("tz_mail/sport-gym-contact.php", {
+    //             data: { name: name, email: email,comment:comment},
+    //             type: "POST",
+    //         }, function (data) {
+    //             $('#loading').remove();
+    //             var tz_form_output = '';
+    //             if(data) 
+    //             {
+    //                 if(data.type == "tz_message") 
+    //                 {
+    //                    $('#error').remove(); 
+    //                    $('#success').remove();
+    //                    $('#google-recaptcha-error').remove(); 
+    //                    var tz_form_output = '<div id="success" class="no-margin-lr alt-font">'+data.text+'</div>';
+    //                 } else if (data.type == "tz_error") {
+    //                    $('#error').remove(); 
+    //                    $('#success').remove();
+    //                    $('#google-recaptcha-error').remove(); 
+    //                    var tz_form_output = '<div id="error" class="no-margin-lr alt-font">'+data.text+'</div>';
+    //                 }else{
+    //                     var tz_form_output = '';
+    //                 } 
+    //             }
 
-                if(tz_form_output != '')
-                {
-                    var section_id = localStorage.getItem('tz_section');
-                    $('#'+section_id).find('form').before(tz_form_output);
-                }
-                $('#' + section_id).find('form input,form textarea').each(function (index) {
-                    $(this).val('');
-                    $(this).removeClass('tz_input_error');
-                });
+    //             if(tz_form_output != '')
+    //             {
+    //                 var section_id = localStorage.getItem('tz_section');
+    //                 $('#'+section_id).find('form').before(tz_form_output);
+    //             }
+    //             $('#' + section_id).find('form input,form textarea').each(function (index) {
+    //                 $(this).val('');
+    //                 $(this).removeClass('tz_input_error');
+    //             });
 
-                 setTimeout(function(){
-                    $('#success').fadeOut();
-                    $('#success').remove();
-                    $('#error').fadeOut();
-                    $('#error').remove();
-                    $(this).submit();
-                 },5000);
+    //              setTimeout(function(){
+    //                 $('#success').fadeOut();
+    //                 $('#success').remove();
+    //                 $('#error').fadeOut();
+    //                 $('#error').remove();
+    //                 $(this).submit();
+    //              },5000);
 
-                 localStorage.removeItem('tz_section');
+    //              localStorage.removeItem('tz_section');
 
-            }, 'json');
+    //         }, 'json');
 
-        }
-    });
+    //     }
+    // });
 
     $('form input,form textarea').each(function (index) {
         $(this).keypress(function () {

@@ -36,11 +36,13 @@
 }
 #timeline .timeline-badge span.timeline-balloon-date-day {
   font-size: 1.4em;
+  position: relative;
+  top: 7px;
 }
 #timeline .timeline-badge span.timeline-balloon-date-month {
   font-size: .7em;
   position: relative;
-  top: -10px;
+  top: 0px;
 }
 #timeline .timeline-badge.timeline-filter-movement {
   background-color: #ffffff;
@@ -53,7 +55,8 @@
 #timeline .timeline-badge.timeline-filter-movement a span {
   color: #4997cd;
   font-size: 1.3em;
-  top: -1px;
+  top: 4px;
+  left: 0.3px;
 }
 #timeline .timeline-badge.timeline-future-movement {
   background-color: #ffffff;
@@ -66,8 +69,8 @@
 #timeline .timeline-badge.timeline-future-movement a span {
   color: #4997cd;
   font-size: .9em;
-  top: 2px;
-  left: 1px;
+  top: 6px;
+  left: 1.19px;
 }
 #timeline .timeline-movement {
   border-bottom: dashed 1px #4997cd;
@@ -101,13 +104,13 @@
   color: #666;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.credits .timeline-panel-ul li span.importo {
-  color: #468c1f;
+  color: #4997cd;
   font-size: 1.3em;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul {
   text-align: left;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul span.importo {
-  color: #e2001a;
+  color: rgba(226, 0, 194, 0.71);
   font-size: 1.3em;
 }

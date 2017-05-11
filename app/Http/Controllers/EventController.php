@@ -15,7 +15,7 @@ class EventController extends Controller
      */
     public function index()
     {
-        $datas = Event::orderBy('id','DESC');
+        $datas = Event::orderBy('id','ASC')->get();
         return view('eventandtips.eventandtips')->with('datas',$datas);
     }
 
