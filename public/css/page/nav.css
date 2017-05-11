@@ -1,0 +1,19 @@
+body{
+	background: black;
+}
+
+.navbar li a {
+    font-size: 13px;
+    font-weight: 550;
+    color: white;
+}
+
+.navbar li a:hover {
+    color: #32b6e6;
+    font-weight: 700;
+}
+
+nav {
+     background: #000000; 
+     opacity: 0.75;
+}

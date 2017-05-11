@@ -12,5 +12,29 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+	return view('home.home');
 });
+
+Route::get('/home', function () {
+	return view('home.home');
+});
+
+Route::get('/facility', 'FacilityController@index');
+
+Route::get('/class', 'ClassController@index');
+
+Route::get('/team', 'TeamController@index');
+
+Route::get('/eventandtips', function () {
+	return view('eventandtips.eventandtips');
+});
+
+Route::get('/contact', function () {
+	return view('contact.contact');
+});	
+
+Route::get('/member', function () {
+	return view('member.member');
+});
+
+Route::post('/subscribe', 'HomeController@subscribe');
