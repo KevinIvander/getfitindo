@@ -52,7 +52,7 @@ header .container { position: relative;}
 header .row { align-items: center; display: flex; height: auto;}
 .header-margin-top { margin-top: 86px; }
 .navbar.shrink-nav { position: fixed !important; top: 0; }
-.navbar.shrink-nav.shrink { padding: 11px 0; border-bottom: 1px solid rgba(0,0,0,0.1) }
+.navbar.shrink-nav.shrink { padding: 11px 0; border-bottom: 0px solid rgba(0,0,0,0.1) }
 .header-margin-top-big { margin-top: 134px; }
 .header-margin-top-medium { margin-top: 138px; }
 .navbar.shrink-nav.shrink .header-bottom { padding: 11px 0;}
@@ -451,7 +451,7 @@ header .row { align-items: center; display: flex; height: auto;}
 .pricing-box-style3 li:last-child{padding: 30px 13px; border-bottom:0}
 
 /* price box 4 */
-.pricing-box-style4 .pricing-box{border: 2px solid #3966e6; padding:60px 0}
+.pricing-box-style4 .pricing-box{border: 2px solid #3966e6; padding:40px 0}
 .pricing-box-style4 .pricing-features{padding: 35px 40px 0;}
 .pricing-box-style4 .pricing-features ul li{border-bottom:1px solid rgba(0,0,0,.1); padding:10px 0; font-size:14px}
 .pricing-box-style4 .pricing-features ul li:last-child {border:none}

@@ -67,11 +67,6 @@
         <script type="text/javascript" src="{{ asset('js/main.js') }}"></script>
         <!-- waypoint -->
         <script type="text/javascript" src="{{ asset('js/jquery.waypoints.min.js') }}"></script>
-        <script type="text/javascript">
-            $(document).ready(function(){
-                $(this).scrollTop(0);
-            });
-        </script>
     @yield('scripts')
 </body>
 </html>

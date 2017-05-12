@@ -16,4 +16,5 @@ body{
 nav {
      background: #000000; 
      opacity: 0.75;
+     height: 68px !important;
 }
