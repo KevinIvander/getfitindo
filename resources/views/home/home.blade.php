@@ -320,7 +320,7 @@
             </div>
         </div>
     </section>
-    <section id="contact-section7" class="no-padding position-relative cover-background tz-builder-bg-image border-none xs-padding-60px-tb bg-img-nine" data-img-size="(W)1920px X (H)800px" style="background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.85)), url('images/bg-image/hero-bg3.jpg');">
+    <section id="contact-section7" class="wow fadeIn no-padding position-relative cover-background tz-builder-bg-image border-none xs-padding-60px-tb bg-img-nine" data-img-size="(W)1920px X (H)800px" style="background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.85)), url('images/bg-image/hero-bg3.jpg');">
         <div class="container one-third-screen position-relative xs-height-auto">
             <div class="row">
                 <div class="slider-typography xs-position-static">
