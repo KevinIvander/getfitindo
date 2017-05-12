@@ -25,7 +25,7 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12 text-medium display-table">
                         <div class="display-table-cell-vertical-middle">
-                            <div class="wow bounceInUp text-medium tz-text no-margin"><p class="no-margin-bottom">Don't miss our events and keep update tips from us to get maximum result. Get healthy life!</p></div>
+                            <div class="wow bounceInUp text-medium tz-text no-margin"><p class="no-margin-bottom">Don't miss our events and keep update tips from us to get maximum result.<br> Get healthy life!</p></div>
                         </div>
                     </div>
                     <!-- end section title -->

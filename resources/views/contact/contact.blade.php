@@ -43,29 +43,29 @@
                 <div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-thirteen-bottom text-center sm-clear-both">
                     <div class="feature-box xs-margin-thirteen xs-no-margin-tb hvr-buzz-out">     
                         <i class="fa fa-instagram text-sky-blue icon-large tz-icon-color margin-ten-bottom xs-margin-five-bottom"></i>
-                        <h3 class="feature-title text-white text-medium font-weight-400 alt-font display-block margin-three-bottom tz-text">Instafram</h3>
-                        <div class="text-medium center-col tz-text">301 The Greenhouse, Custard,<br>Factory, London, E2 8DY.</div>
+                        <h3 class="feature-title text-white text-medium font-weight-400 alt-font display-block margin-three-bottom tz-text">Instagram</h3>
+                        <div class="text-medium center-col tz-text">@getfitgetconfidence</div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-thirteen-bottom text-center">
                     <div class="feature-box xs-margin-thirteen xs-no-margin-tb hvr-buzz-out">
                         <i class="fa fa-whatsapp text-sky-blue icon-large tz-icon-color margin-ten-bottom xs-margin-five-bottom"></i>
-                        <h3 class="feature-title text-white text-medium font-weight-400 alt-font display-block margin-three-bottom tz-text">Whatsapp</h3>
-                        <div class="text-medium center-col tz-text">(M) +44 (0) 123 456 7890<br>(O) +44 (0) 123 456 7890</div>
+                        <h3 class="feature-title text-white text-medium font-weight-400 alt-font display-block margin-three-bottom tz-text">WhatsApp</h3>
+                        <div class="text-medium center-col tz-text">0813 3888 1069</div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12 text-center xs-margin-thirteen-bottom sm-clear-both">
                     <div class="feature-box xs-margin-thirteen xs-no-margin-tb hvr-buzz-out">
                         <i class="fa fa-group text-sky-blue icon-large tz-icon-color margin-ten-bottom xs-margin-five-bottom"></i>
-                        <h3 class="feature-title text-white text-medium font-weight-400 alt-font display-block margin-three-bottom tz-text">Email</h3>
-                        <div class="text-medium center-col"><a class="tz-text text-light-gray2" href="mailto:no-reply@domain.com">no-reply@domain.com</a><br><a class="tz-text text-light-gray2" href="mailto:help@domain.com">help@domain.com</a></div>
+                        <h3 class="feature-title text-white text-medium font-weight-400 alt-font display-block margin-three-bottom tz-text">BBM</h3>
+                        <div class="text-medium center-col"><a class="tz-text text-light-gray2" href="mailto:no-reply@domain.com">D6CE4AAB</a><br><a class="tz-text text-light-gray2" href="mailto:help@domain.com"></a></div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12 text-center">
                     <div class="feature-box xs-margin-thirteen xs-no-margin-tb hvr-buzz-out">
                         <i class="fa fa-clock-o text-sky-blue icon-large tz-icon-color margin-ten-bottom xs-margin-five-bottom"></i>
                         <h3 class="feature-title text-white text-medium font-weight-400 alt-font display-block margin-three-bottom tz-text">Working Hours</h3>
-                        <div class="text-medium center-col tz-text">Mon to Sat - 9 AM to 11 PM<br>Sunday 10 AM to 6 PM</div>
+                        <div class="text-medium center-col tz-text">Mon to Sat - 8 AM to 10 PM</div>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@
                                     <!-- section title -->
                                     <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12 center-col text-center">
                                         <h2 class="title-extra-large sm-section-title-medium xs-section-title-large text-white font-weight-600 alt-font margin-five-bottom xs-margin-fifteen-bottom tz-text">ANY QUESTION OR SUGGESTIONS? </h2>
-                                        <div class="text-medium text-light-gray width-90 sm-width-100 center-col tz-text margin-thirteen-bottom xs-margin-nineteen-bottom">Share your questions or suggestions for us below. Thank you.</div>
+                                        <div class="text-medium text-light-gray width-90 sm-width-100 center-col tz-text margin-thirteen-bottom xs-margin-nineteen-bottom">Share your questions or suggestions for us below.<br>Thank you.</div>
                                     </div>
                                     <!-- end section title -->
                                     <!-- contact form -->
