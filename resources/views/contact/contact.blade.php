@@ -3,6 +3,7 @@
 @section('css')
 
     <link rel="stylesheet" href="{{ asset('css/map.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/page/contact.css') }}" />
 
 @endsection
 
@@ -72,39 +73,60 @@
     </section>
     <section class="container">
         <div class="row equalize">
-            <div class="map-responsive col-md-6 col-sm-5" id="map">
+            <div class="map-responsive col-md-6 col-sm-12 col-xs-12" id="map">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d247.0711196408531!2d110.4158054!3d-7.7751974!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc8db77f1434ef324!2sGet+Fit+Aerobic+%26+Fitness+Center!5e0!3m2!1sen!2sid!4v1494539836542" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
                 </iframe>
             </div>
-            <div class="col-md-6 col-sm-5">
-                <h2>SEND YOUR MESSAGE HERE</h2>
-                  <form class="form-horizontal" action="/action_page.php">
-                    <div class="form-group">
-                      <label class="control-label col-sm-2" for="email">Email:</label>
-                      <div class="col-sm-10">
-                        <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
-                      </div>
-                    </div>
-                    <div class="form-group">
-                      <label class="control-label col-sm-2" for="pwd">Password:</label>
-                      <div class="col-sm-10">          
-                        <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pwd">
-                      </div>
-                    </div>
-                    <div class="form-group">        
-                      <div class="col-sm-offset-2 col-sm-10">
-                        <div class="checkbox">
-                          <label><input type="checkbox" name="remember"> Remember me</label>
+            <section id="contact-section7" class="col-md-6 col-sm-12 col-xs-12 wow fadeIn no-padding cover-background tz-builder-bg-image border-none xs-padding-60px-tb bg-img-nine" style="background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.85)), url('images/bg-image/hero-bg3.jpg');">
+                <div class="container one-third-screen xs-height-auto">
+                    <div class="row">
+                        <div class="slider-typography xs-position-static">
+                            <div class="slider-text-middle-main">
+                                <div class="slider-text-middle text-left">
+                                    <!-- section title -->
+                                    <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12 center-col text-center">
+                                        <h2 class="title-extra-large sm-section-title-medium xs-section-title-large text-white font-weight-600 alt-font margin-five-bottom xs-margin-fifteen-bottom tz-text">ANY QUESTION OR SUGGESTIONS? </h2>
+                                        <div class="text-medium text-light-gray width-90 sm-width-100 center-col tz-text margin-thirteen-bottom xs-margin-nineteen-bottom">Share your questions or suggestions for us below. Thank you.</div>
+                                    </div>
+                                    <!-- end section title -->
+                                    <!-- contact form -->
+                                    <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12 center-col text-center">
+                                        <form method="POST" action="{{ url('subscribe') }}" enctype="multipart/form-data">
+                                            {{ csrf_field() }}
+                                            <input type="text" name="name" id="name" data-email="required" placeholder="*Your Name" class="medium-input alt-font border-radius-4">
+
+                                            @if ($errors->has('name'))
+                                                <span class="help-block">
+                                                    <strong>{{ $errors->first('name') }}</strong>
+                                                </span>
+                                            @endif
+
+                                            <input type="text" name="email" id="email" data-email="required" placeholder="*Your Email" class="medium-input alt-font border-radius-4">
+
+                                            @if ($errors->has('email'))
+                                                <span class="help-block">
+                                                    <strong>{{ $errors->first('email') }}</strong>
+                                                </span>
+                                            @endif
+
+                                            <textarea name="comment" rows="4" id="comment" placeholder="Your Message" class="medium-input alt-font border-radius-4"></textarea>
+
+                                            @if ($errors->has('comment'))
+                                                <span class="help-block">
+                                                    <strong>{{ $errors->first('comment') }}</strong>
+                                                </span>
+                                            @endif
+
+                                            <button type="submit" class="default-submit btn btn-large propClone bg-sky-blue btn-circle tz-text text-white">SEND MESSAGE</button>                      
+                                        </form>
+                                    </div>
+                                    <!-- end contact form -->
+                                </div>                                
+                            </div>
                         </div>
-                      </div>
                     </div>
-                    <div class="form-group">        
-                      <div class="col-sm-offset-2 col-sm-10">
-                        <button type="submit" class="btn btn-default">Submit</button>
-                      </div>
-                    </div>
-                  </form>
-            </div>
+                </div>
+            </section>
         </div>
     </section>
 @endsection

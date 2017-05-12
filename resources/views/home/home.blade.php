@@ -319,55 +319,5 @@
             </div>
         </div>
     </section>
-    <section id="contact-section7" class="wow fadeIn no-padding position-relative cover-background tz-builder-bg-image border-none xs-padding-60px-tb bg-img-nine" data-img-size="(W)1920px X (H)800px" style="background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.85)), url('images/bg-image/hero-bg3.jpg');">
-        <div class="container one-third-screen position-relative xs-height-auto">
-            <div class="row">
-                <div class="slider-typography xs-position-static">
-                    <div class="slider-text-middle-main">
-                        <div class="slider-text-middle text-left">
-                            <!-- section title -->
-                            <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12 center-col text-center">
-                                <h2 class="title-extra-large-2 sm-section-title-medium xs-section-title-large text-white font-weight-600 alt-font margin-five-bottom xs-margin-fifteen-bottom tz-text">ANY QUESTION OR SUGGESTIONS? </h2>
-                                <div class="text-medium text-light-gray width-90 sm-width-100 center-col tz-text margin-thirteen-bottom xs-margin-nineteen-bottom">Share your questions or suggestions for us below. Thank you.</div>
-                            </div>
-                            <!-- end section title -->
-                            <!-- contact form -->
-                            <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12 center-col text-center">
-                                <form method="POST" action="{{ url('subscribe') }}" enctype="multipart/form-data">
-                                    {{ csrf_field() }}
-                                    <input type="text" name="name" id="name" data-email="required" placeholder="*Your Name" class="medium-input alt-font border-radius-4">
 
-                                    @if ($errors->has('name'))
-                                        <span class="help-block">
-                                            <strong>{{ $errors->first('name') }}</strong>
-                                        </span>
-                                    @endif
-
-                                    <input type="text" name="email" id="email" data-email="required" placeholder="*Your Email" class="medium-input alt-font border-radius-4">
-
-                                    @if ($errors->has('email'))
-                                        <span class="help-block">
-                                            <strong>{{ $errors->first('email') }}</strong>
-                                        </span>
-                                    @endif
-
-                                    <textarea name="comment" rows="4" id="comment" placeholder="Your Message" class="medium-input alt-font border-radius-4"></textarea>
-
-                                    @if ($errors->has('comment'))
-                                        <span class="help-block">
-                                            <strong>{{ $errors->first('comment') }}</strong>
-                                        </span>
-                                    @endif
-
-                                    <button type="submit" class="default-submit btn btn-large propClone bg-sky-blue btn-circle tz-text text-white">SEND MESSAGE</button>                      
-                                </form>
-                            </div>
-                            <!-- end contact form -->
-                        </div>                                
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
- 
 @endsection

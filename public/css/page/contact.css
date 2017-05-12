@@ -1,16 +1,4 @@
-.container{
-  width: 100%;
-  margin: 0 auto;
-  /*margin-top:50px;*/
-}
-
-#map_container{
-  position: relative;
-}
-#map{
-    height: 100%;
-    overflow: hidden;
-    padding-bottom: 22.25%;
-    padding-top: 30px;
-    position: relative;
+#contact-section7{
+	min-height: 600px !important;
+	height: auto;
 }
