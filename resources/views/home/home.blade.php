@@ -23,8 +23,8 @@
                         <div class="slider-text-middle-main">
                             <div class="slider-text-middle"> 
                                 <div class="col-md-7 col-sm-10 col-xs-12 no-padding alt-font slider-content sm-no-margin-top">
-                                    <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text"  id="tz-slider-text1">CROSSFIT EXERCISES ON EVERY DAY.</div>
-                                    <div class="wow fadeInUp text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text2">Lorem Ipsum is simply dummy text of printing and industry. Lorem Ipsum the industry's dummy text ever since.</div>
+                                    <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text"  id="tz-slider-text1">FIT IS NOT A DESTINATION. IT'S WAY OF LIFE.</div>
+                                    <div class="wow fadeInUp text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text2">Getfit will lead you how to do healthy life. Get it or not? Get fit. Get Confidence.</div>
                                 </div>
                             </div>
                         </div>
@@ -39,8 +39,8 @@
                         <div class="slider-text-middle-main">
                             <div class="slider-text-middle"> 
                                 <div class="col-md-7 col-sm-10 col-xs-12 no-padding alt-font slider-content sm-no-margin-top">
-                                    <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text" id="tz-slider-text4">A POWERFUL PROGRAM, JUST FOR YOU.</div>
-                                    <div class="wow fadeInUp 2 text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text5">Lorem Ipsum is simply dummy text of printing and industry. Lorem Ipsum the industry's dummy text ever since.</div>
+                                    <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text" id="tz-slider-text4">CHOOSE WHAT YOU WANT</div>
+                                    <div class="wow fadeInUp 2 text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text5">Getfit provide many classes. Stop excuse yourself and let's join a member.</div>
                                 </div>
                             </div>
                         </div>
@@ -55,8 +55,8 @@
                         <div class="slider-text-middle-main">
                             <div class="slider-text-middle"> 
                                 <div class="col-md-7 col-sm-10 col-xs-12 no-padding alt-font slider-content sm-no-margin-top">
-                                    <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text" id="tz-slider-text7">CROSSFIT EXERCISES ON EVERY DAY.</div>
-                                    <div class="wow fadeInUp text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text8">Lorem Ipsum is simply dummy text of printing and industry. Lorem Ipsum the industry's dummy text ever since.</div>
+                                    <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text" id="tz-slider-text7">OUR BODY. YOUR GOALS. YOUR EFFORT.</div>
+                                    <div class="wow fadeInUp text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text8">Will it easy? Nope. Worth it? Absolutely.</div>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                 <!-- feature content -->
                 <div class="wow bounceInLeft col-lg-6 col-md-6 col-sm-12 col-xs-12 display-table" data-wow-delay="0.5s">
                     <div class="display-table-cell-vertical-middle">
-                        <h2 class="alt-font text-sky-blue title-extra-large-3 alt-font line-height-55 font-weight-600 sm-section-title-large width-90 md-width-100 xs-margin-fifteen-bottom xs-section-title-large tz-text">ABOUT THE GYM AND FITNESS</h2>
+                        <h2 class="alt-font text-sky-blue title-extra-large-3 alt-font line-height-55 font-weight-600 sm-section-title-large width-90 md-width-100 xs-margin-fifteen-bottom xs-section-title-large tz-text">ABOUT GET FIT</h2>
                     </div>
                 </div>
                 <!-- end feature content -->
@@ -80,12 +80,12 @@
                 <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 display-table">
                     <div class="display-table-cell-vertical-middle">
                         <div class="col-md-12 col-sm-12 col-xs-12 no-padding-lr margin-thirteen-bottom padding-four-bottom sm-padding-one-bottom sm-margin-seven-bottom xs-margin-fifteen-bottom border-bottom-light tz-border">
-                            <h3 class="wow bounceInDown text-extra-large margin-two-bottom text-sky-blue vertical-align-middle xs-margin-five-bottom xs-text-extra-large alt-font tz-text" data-wow-delay="1s">The place to get in shape.</h3>
-                            <div class="wow bounceInRight text-medium vertical-align-middle tz-text" data-wow-delay="1.5s"><p>Lorem Ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum has been he standard dummy.</p></div>
+                            <h3 class="wow bounceInDown text-extra-large margin-two-bottom text-sky-blue vertical-align-middle xs-margin-five-bottom xs-text-extra-large alt-font tz-text" data-wow-delay="1s">WHAT'S GET FIT?</h3>
+                            <div class="wow bounceInRight text-medium vertical-align-middle tz-text" data-wow-delay="1.5s"><p>Fit is a fitness center at Yogyakarta with many facilitites that make you are confidence</p></div>
                         </div>
                         <div class="col-md-12 col-sm-12 col-xs-12 no-padding-lr">
-                            <h3 class="wow bounceInUp text-extra-large margin-two-bottom text-sky-blue vertical-align-middle xs-margin-five-bottom xs-text-extra-large alt-font tz-text" data-wow-delay="2s">We work hard & play hard.</h3>
-                            <div class="wow bounceInRight text-medium vertical-align-middle tz-text" data-wow-delay="2.5s"><p class="no-margin-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum has been he standard dummy.</p></div>
+                            <h3 class="wow bounceInUp text-extra-large margin-two-bottom text-sky-blue vertical-align-middle xs-margin-five-bottom xs-text-extra-large alt-font tz-text" data-wow-delay="2s">GET FIT COMMUNITY</h3>
+                            <div class="wow bounceInRight text-medium vertical-align-middle tz-text" data-wow-delay="2.5s"><p class="no-margin-bottom">You can join Getfit Community by a member. You can fullfill registration at Getfit centre or in the website.</p></div>
                         </div>
                     </div>
                 </div>
@@ -102,8 +102,8 @@
                 <!-- slider text -->
                 <div class="text-fitness col-lg-6 col-md-6 col-sm-12 col-xs-12 one-third-screen sm-one-second-screen xs-height-auto display-table text-center xs-no-padding">
                     <div class="display-table-cell-vertical-middle padding-twenty-five sm-padding-seven xs-padding-twenty no-padding-tb">
-                        <h2 class="wow bounceInDown alt-font text-white letter-spacing-minus-2 font-weight-600 title-extra-large-6 md-title-extra-large-3 xs-title-extra-large-4 margin-five-bottom tz-text">THE PLACE TO GET IN SHAPE</h2>
-                        <div class="wow bounceInUp title-large tz-text margin-ten-bottom text-white font-weight-300 width-70 md-width-100 xs-width-80 center-col xs-title-extra-large">For fitness and workout. we are available for 24/7 for your fitness.</div>
+                        <h2 class="wow bounceInDown alt-font text-white letter-spacing-minus-2 font-weight-600 title-extra-large-6 md-title-extra-large-3 xs-title-extra-large-4 margin-five-bottom tz-text">The Question isn't Can You? but Will You?</h2>
+                        <div class="wow bounceInUp title-large tz-text margin-ten-bottom text-white font-weight-300 width-70 md-width-100 xs-width-80 center-col xs-title-extra-large"></div>
                     </div>
                 </div>
                 <!-- end slider text -->
@@ -117,8 +117,8 @@
                     <div class="slider-text-middle-main">
                         <div class="slider-text-middle text-center xs-padding-fifteen xs-no-padding-lr">
                             <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12 center-col">
-                                <h1 class="title-extra-large-4 font-weight-600 xs-title-extra-large text-white alt-font margin-three-bottom tz-text">FOLLOW OUR EVENT<br>STAY TUNE WITH US!</h1>
-                                <div class="text-extra-large text-light-gray xs-text-extra-large width-70 margin-eight-bottom tz-text margin-lr-auto"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p></div>
+                                <h1 class="wow bounceInUp title-extra-large-4 font-weight-600 xs-title-extra-large text-white alt-font margin-three-bottom tz-text">LET'S JOIN A MEMBER<br>GET YOUR CONFIDENCE</h1>
+                                <div class="wow zoomIn text-extra-large text-light-gray xs-text-extra-large width-70 margin-eight-bottom tz-text margin-lr-auto"><p>Check information below to join a member</p></div>
                             </div>
                         </div>                                
                     </div>
@@ -132,12 +132,12 @@
                 <!-- section title -->
                 <div class="col-md-6 col-sm-6 col-xs-12 display-table xs-margin-fifteen-bottom">
                     <div class="display-table-cell-vertical-middle">
-                        <h2 class="title-extra-large-3 line-height-55 font-weight-600 sm-section-title-large alt-font text-sky-blue title-large width-90 sm-width-100 sm-title-large xs-title-large tz-text">EFFECTIVE MEMBERSHIP</h2>
+                        <h2 class="wow bounceInRight title-extra-large-3 line-height-55 font-weight-600 sm-section-title-large alt-font text-sky-blue title-large width-90 sm-width-100 sm-title-large xs-title-large tz-text">MEMBERSHIP</h2>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-medium display-table">
                     <div class="display-table-cell-vertical-middle">
-                        <div class="text-medium tz-text no-margin"><p class="no-margin-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book.</p></div>
+                        <div class="wow slideInUp text-medium tz-text no-margin"><p class="no-margin-bottom">Get many benefits with join Getfit's member</p>Getfit's Community</div>
                     </div>
                 </div>
                 <!-- end section title -->
@@ -150,7 +150,7 @@
                 <div class="pricing-box-style4 display-inline-block width-100">
                     <!-- pricing item -->
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center xs-margin-nine-bottom">
-                        <div class="pricing-box builder-bg tz-border border-none bg-dark-gray2">
+                        <div class="wow zoomIn pricing-box builder-bg tz-border border-none bg-dark-gray2">
                             <!-- pricing title -->
                             <div class="pricing-title text-center">
                                 <h3 class="alt-font text-large text-medium-gray tz-text">PERSONAL</h3>
@@ -158,18 +158,17 @@
                             <!-- end pricing title -->
                             <!-- pricing price -->
                             <div class="pricing-price builder-bg">
-                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">$95</h4>
-                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>ONE MONTH</p> </div>
+                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">15K-30K</h4>
+                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>INCIDENTAL</p> </div>
                             </div>
                             <!-- end pricing price -->
                             <!-- pricing features -->
                             <div class="pricing-features no-padding-top">
                                 <ul class="margin-twenty-three-bottom list-style-none">
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Swimming pool not included</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Canteen optional</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Towels not included</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Water not included</span></li>
-                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text">Personal trainer not included</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Fitness 25K</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Zumba & Boxing 20K</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Yoga 30K</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Aerobic 15K</span></li>
                                 </ul>
                             </div>
                             <!-- end pricing features -->
@@ -178,7 +177,7 @@
                     <!-- end pricing item -->
                     <!-- pricing item -->
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center xs-margin-nine-bottom">
-                        <div class="pricing-box builder-bg tz-border border-none bg-dark-gray2">
+                        <div class="wow zoomIn pricing-box builder-bg tz-border border-none bg-dark-gray2">
                             <!-- pricing title -->
                             <div class="pricing-title text-center">
                                 <h3 class="alt-font text-large text-medium-gray tz-text">PERSONAL</h3>
@@ -186,18 +185,18 @@
                             <!-- end pricing title -->
                             <!-- pricing price -->
                             <div class="pricing-price builder-bg">
-                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">$499</h4>
-                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>SIX MONTH</p> </div>
+                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">150K-170K</h4>
+                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>ONE MONTH</p> </div>
                             </div>
                             <!-- end pricing price -->
                             <!-- pricing features -->
                             <div class="pricing-features no-padding-top">
                                 <ul class="margin-twenty-three-bottom list-style-none">
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Swimming pool + $10</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Canteen optional</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">College student 150K</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Others 170K</span></li>
                                     <li class="tz-border border-bottom-light"><span class="tz-text">Towels for FREE</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Water + $5</span></li>
-                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text">Personal trainer optional</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Water for FREE</span></li>
+                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text"></span></li>
                                 </ul>
                             </div>
                             <!-- end pricing features -->
@@ -206,7 +205,7 @@
                     <!-- end pricing item -->
                     <!-- pricing item -->
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center">
-                        <div class="pricing-box builder-bg tz-border border-none bg-dark-gray2">
+                        <div class="wow zoomIn pricing-box builder-bg tz-border border-none bg-dark-gray2">
                             <!-- pricing title -->
                             <div class="pricing-title text-center">
                                 <h3 class="alt-font text-large text-medium-gray tz-text">PERSONAL</h3>
@@ -214,74 +213,74 @@
                             <!-- end pricing title -->
                             <!-- pricing price -->
                             <div class="pricing-price builder-bg">
-                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">$999</h4>
-                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>PER YEAR</p> </div>
+                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">1.500K-1.650K</h4>
+                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>YEARLY</p> </div>
                             </div>
                             <!-- end pricing price -->
                             <!-- pricing features -->
                             <div class="pricing-features no-padding-top">
                                 <ul class="margin-twenty-three-bottom list-style-none">
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Swimming pool for FREE</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Canteen included</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">College student 1.500K</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Others 1.650K</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">FREE Goodie Bag</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Towels & Water for FREE</span></li>
+                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text"></span></li>
+                                </ul>
+                            </div>
+                            <!-- end pricing features -->
+                        </div>
+                    </div>
+                    <!-- end pricing item -->
+                    <!-- pricing item -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center xs-margin-nine-bottom">
+                        <div class="wow zoomIn pricing-box builder-bg tz-border border-none bg-dark-gray2">
+                            <!-- pricing title -->
+                            <div class="pricing-title text-center">
+                                <h3 class="alt-font text-large text-medium-gray tz-text">PERSONAL</h3>
+                            </div>
+                            <!-- end pricing title -->
+                            <!-- pricing price -->
+                            <div class="pricing-price builder-bg">
+                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">1.800K-2.000K</h4>
+                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>YEARLY</p> </div>
+                            </div>
+                            <!-- end pricing price -->
+                            <!-- pricing features -->
+                            <div class="pricing-features no-padding-top">
+                                <ul class="margin-twenty-three-bottom list-style-none">
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">College student 1.800K</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Others 2.000K</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">FREE 3 months membership</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Towels & Water for FREE</span></li>
+                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text"></span></li>
+                                </ul>
+                            </div>
+                            <!-- end pricing features -->
+                        </div>
+                    </div>
+                    <!-- end pricing item -->
+                    <!-- pricing item -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center xs-margin-nine-bottom">
+                        <div class="wow zoomIn pricing-box builder-bg tz-border border-none bg-dark-gray2">
+                            <!-- pricing title -->
+                            <div class="pricing-title text-center">
+                                <h3 class="alt-font text-large text-medium-gray tz-text">PERSONAL</h3>
+                            </div>
+                            <!-- end pricing title -->
+                            <!-- pricing price -->
+                            <div class="pricing-price builder-bg">
+                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">170K/MONTH</h4>
+                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>3 MONTHS</p> </div>
+                            </div>
+                            <!-- end pricing price -->
+                            <!-- pricing features -->
+                            <div class="pricing-features no-padding-top">
+                                <ul class="margin-twenty-three-bottom list-style-none">
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Registration for 3 months</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">FREE 1 month </span></li>
                                     <li class="tz-border border-bottom-light"><span class="tz-text">Towels for FREE</span></li>
                                     <li class="tz-border border-bottom-light"><span class="tz-text">Water for FREE</span></li>
-                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text">Personal trainer included</span></li>
-                                </ul>
-                            </div>
-                            <!-- end pricing features -->
-                        </div>
-                    </div>
-                    <!-- end pricing item -->
-                    <!-- pricing item -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 text-center xs-margin-nine-bottom">
-                        <div class="pricing-box builder-bg tz-border border-none bg-dark-gray2">
-                            <!-- pricing title -->
-                            <div class="pricing-title text-center">
-                                <h3 class="alt-font text-large text-medium-gray tz-text">PERSONAL</h3>
-                            </div>
-                            <!-- end pricing title -->
-                            <!-- pricing price -->
-                            <div class="pricing-price builder-bg">
-                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">$95</h4>
-                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>ONE MONTH</p> </div>
-                            </div>
-                            <!-- end pricing price -->
-                            <!-- pricing features -->
-                            <div class="pricing-features no-padding-top">
-                                <ul class="margin-twenty-three-bottom list-style-none">
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Swimming pool not included</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Canteen optional</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Towels not included</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Water not included</span></li>
-                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text">Personal trainer not included</span></li>
-                                </ul>
-                            </div>
-                            <!-- end pricing features -->
-                        </div>
-                    </div>
-                    <!-- end pricing item -->
-                    <!-- pricing item -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 text-center xs-margin-nine-bottom">
-                        <div class="pricing-box builder-bg tz-border border-none bg-dark-gray2">
-                            <!-- pricing title -->
-                            <div class="pricing-title text-center">
-                                <h3 class="alt-font text-large text-medium-gray tz-text">PERSONAL</h3>
-                            </div>
-                            <!-- end pricing title -->
-                            <!-- pricing price -->
-                            <div class="pricing-price builder-bg">
-                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">$499</h4>
-                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>SIX MONTH</p> </div>
-                            </div>
-                            <!-- end pricing price -->
-                            <!-- pricing features -->
-                            <div class="pricing-features no-padding-top">
-                                <ul class="margin-twenty-three-bottom list-style-none">
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Swimming pool + $10</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Canteen optional</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Towels for FREE</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Water + $5</span></li>
-                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text">Personal trainer optional</span></li>
+                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text"></span></li>
                                 </ul>
                             </div>
                             <!-- end pricing features -->
@@ -290,26 +289,26 @@
                     <!-- end pricing item -->
                     <!-- pricing item -->
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center">
-                        <div class="pricing-box builder-bg tz-border border-none bg-dark-gray2">
+                        <div class="wow zoomIn pricing-box builder-bg tz-border border-none bg-dark-gray2">
                             <!-- pricing title -->
                             <div class="pricing-title text-center">
-                                <h3 class="alt-font text-large text-medium-gray tz-text">PERSONAL</h3>
+                                <h3 class="alt-font text-large text-medium-gray tz-text">GROUPS</h3>
                             </div>
                             <!-- end pricing title -->
                             <!-- pricing price -->
                             <div class="pricing-price builder-bg">
-                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">$999</h4>
-                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>PER YEAR</p> </div>
+                                <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-white tz-text">170K/PERSON</h4>
+                                <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>MONTHLY</p> </div>
                             </div>
                             <!-- end pricing price -->
                             <!-- pricing features -->
                             <div class="pricing-features no-padding-top">
                                 <ul class="margin-twenty-three-bottom list-style-none">
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Swimming pool for FREE</span></li>
-                                    <li class="tz-border border-bottom-light"><span class="tz-text">Canteen included</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Registration 5 member</span></li>
+                                    <li class="tz-border border-bottom-light"><span class="tz-text">Discount 10%</span></li>
                                     <li class="tz-border border-bottom-light"><span class="tz-text">Towels for FREE</span></li>
                                     <li class="tz-border border-bottom-light"><span class="tz-text">Water for FREE</span></li>
-                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text">Personal trainer included</span></li>
+                                    <li class="tz-border border-bottom-light border-none"><span class="tz-text"></span></li>
                                 </ul>
                             </div>
                             <!-- end pricing features -->
@@ -328,8 +327,8 @@
                         <div class="slider-text-middle text-left">
                             <!-- section title -->
                             <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12 center-col text-center">
-                                <h2 class="title-extra-large-2 sm-section-title-medium xs-section-title-large text-white font-weight-600 alt-font margin-five-bottom xs-margin-fifteen-bottom tz-text">HELP US SERVE BETTER</h2>
-                                <div class="text-medium text-light-gray width-90 sm-width-100 center-col tz-text margin-thirteen-bottom xs-margin-nineteen-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</div>
+                                <h2 class="title-extra-large-2 sm-section-title-medium xs-section-title-large text-white font-weight-600 alt-font margin-five-bottom xs-margin-fifteen-bottom tz-text">ANY QUESTION OR SUGGESTIONS? </h2>
+                                <div class="text-medium text-light-gray width-90 sm-width-100 center-col tz-text margin-thirteen-bottom xs-margin-nineteen-bottom">Share your questions or suggestions for us below. Thank you.</div>
                             </div>
                             <!-- end section title -->
                             <!-- contact form -->

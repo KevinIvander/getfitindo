@@ -26,12 +26,12 @@
                 <!-- section title -->
                 <div class="col-md-6 col-sm-6 col-xs-12 display-table xs-margin-fifteen-bottom">
                     <div class="display-table-cell-vertical-middle">
-                        <h2 class="title-extra-large-3 line-height-55 font-weight-600 sm-section-title-large alt-font text-sky-blue title-large width-90 sm-width-100 sm-title-large xs-title-large tz-text">THE FITNESS CLASSES</h2>
+                        <h2 class="wow flipInX title-extra-large-3 line-height-55 font-weight-600 sm-section-title-large alt-font text-sky-blue title-large width-90 sm-width-100 sm-title-large xs-title-large tz-text">GET FIT CLASSES</h2>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-medium display-table">
                     <div class="display-table-cell-vertical-middle">
-                        <div class="text-medium tz-text no-margin"><p class="no-margin-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book.</p></div>
+                        <div class="wow slideInRight text-medium tz-text no-margin"><p class="no-margin-bottom">Let's join get fit classes. Get more confidence and shape your body</p></div>
                     </div>
                 </div>
                 <!-- end section title -->
@@ -47,7 +47,7 @@
                     <div class="col-md-12 col-sm-12 col-xs-12 margin-ten-bottom sm-margin-eight-bottom xs-margin-fifteen-bottom">
                     @foreach($datas as $data)
                         <div class="view view-first portfolio col-md-12 col-sm-12 col-xs-12 no-padding overflow-hidden content-treatments position-relative">
-                            <img class="img200" src="{{ config('app.url')}}{{ $data->picture_url }}" data-img-size="(W)900px X (H)490px" alt="{{$data->name}}"/>
+                            <img class="wow lightSpeedIn img200" src="{{ config('app.url')}}{{ $data->picture_url }}" data-img-size="(W)900px X (H)490px" alt="{{$data->name}}"/>
                             <!-- <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);">
                                   <h4>{{$data->name}}</h4>
                                   <p><span class="cat-portfolio">posters, webdesign</span></p>
@@ -63,7 +63,7 @@
                             </div> -->
                             <div id="myModal" class="modal">
                                   <span class="close">&times;</span>
-                                  <img class="modal-content" id="img200">
+                                  <img class="wow lightSpeedOut modal-content" id="img200">
                                   <div id="caption"></div>
                             </div>
                             <div class="treatments-details bg-dark-gray2 spa-treatments tz-background-color">
@@ -88,7 +88,7 @@
         </div>
     </section>
     <section id="timetable" class="default-bg">
-            <div class="container">
+            <div class="wow bounceInUp container">
             <!-- / College Timetable -->
             <div class='tab border-rad'>
             <table border='0' cellpadding='0' cellspacing='0'>

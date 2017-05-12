@@ -22,13 +22,13 @@
                 <!-- section title -->
                 <div class="col-md-6 col-sm-6 col-xs-12 display-table xs-margin-fifteen-bottom">
                     <div class="display-table-cell-vertical-middle">
-                        <h2 class="title-extra-large-3 line-height-55 font-weight-600 sm-section-title-large alt-font text-sky-blue title-large width-90 sm-width-100 sm-title-large xs-title-large tz-text">CONTACT US</h2>
+                        <h2 class="wow fadeInUp title-extra-large-3 line-height-55 font-weight-600 sm-section-title-large alt-font text-sky-blue title-large width-90 sm-width-100 sm-title-large xs-title-large tz-text">CONTACT US</h2>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-medium display-table">
                     <div class="display-table-cell-vertical-middle">
                         <div class="text-medium tz-text no-margin">
-                            <p class="no-margin-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book.</p>
+                            <p class="wow slideInUp no-margin-bottom">You can contact us for more information</p>
                         </div>
                     </div>
                 </div>

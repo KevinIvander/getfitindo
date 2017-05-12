@@ -19,12 +19,12 @@
                 <!-- section title -->
                 <div class="col-md-6 col-sm-6 col-xs-12 display-table xs-margin-fifteen-bottom">
                     <div class="display-table-cell-vertical-middle">
-                        <h2 class="title-extra-large-3 line-height-55 font-weight-600 sm-section-title-large alt-font text-sky-blue title-large width-90 sm-width-100 sm-title-large xs-title-large tz-text">MEET OUR TEAM</h2>
+                        <h2 class="wow slideInLeft title-extra-large-3 line-height-55 font-weight-600 sm-section-title-large alt-font text-sky-blue title-large width-90 sm-width-100 sm-title-large xs-title-large tz-text">OUR TEAM</h2>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-medium display-table">
                     <div class="display-table-cell-vertical-middle">
-                        <div class="text-medium tz-text no-margin"><p class="no-margin-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book.</p></div>
+                        <div class="wow bounceInDown text-medium tz-text no-margin"><p class="no-margin-bottom">Hello, this is our team. We will help you get your confidence </p></div>
                     </div>
                 </div>
                 <!-- end section title -->
