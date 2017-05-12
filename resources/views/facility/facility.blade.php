@@ -38,7 +38,7 @@
             <div class="row">
                 <!-- blog item -->
                 @foreach($datas as $data)
-                <div class="col-md-4 col-sm-4 col-xs-12 xs-margin-nineteen-bottom">
+                <div class="col-md-3 col-sm-4 col-xs-12 xs-margin-nineteen-bottom">
                     <div class="blog-post">
                         <!-- blog image -->
                         <div class="blog-image">
