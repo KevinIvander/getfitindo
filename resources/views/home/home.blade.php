@@ -24,7 +24,7 @@
                             <div class="slider-text-middle"> 
                                 <div class="col-md-7 col-sm-10 col-xs-12 no-padding alt-font slider-content sm-no-margin-top">
                                     <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text"  id="tz-slider-text1">FIT IS NOT A DESTINATION. IT'S WAY OF LIFE.</div>
-                                    <div class="wow fadeInUp text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text2">Getfit will lead you how to do healthy life. Get it or not? Get fit. Get Confidence.</div>
+                                    <div class="wow fadeInUp text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text2 color-white">Getfit will lead you how to do healthy life. Get it or not? Get fit. Get Confidence.</div>
                                 </div>
                             </div>
                         </div>
@@ -40,7 +40,7 @@
                             <div class="slider-text-middle"> 
                                 <div class="col-md-7 col-sm-10 col-xs-12 no-padding alt-font slider-content sm-no-margin-top">
                                     <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text" id="tz-slider-text4">CHOOSE WHAT YOU WANT</div>
-                                    <div class="wow fadeInUp 2 text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text5">Getfit provide many classes. Stop excuse yourself and let's join a member.</div>
+                                    <div class="wow fadeInUp 2 text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text5 color-white">Getfit provide many classes. Stop excuse yourself and let's join a member.</div>
                                 </div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                             <div class="slider-text-middle"> 
                                 <div class="col-md-7 col-sm-10 col-xs-12 no-padding alt-font slider-content sm-no-margin-top">
                                     <div class="wow fadeIn title-extra-large-6 line-height-75 font-weight-600 text-sky-blue slider-title margin-seven-bottom tz-text" id="tz-slider-text7">OUR BODY. YOUR GOALS. YOUR EFFORT.</div>
-                                    <div class="wow fadeInUp text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text8">Will it easy? Nope. Worth it? Absolutely.</div>
+                                    <div class="wow fadeInUp text-extra-large main-font font-weight-500 slider-text margin-ten-bottom tz-text width-80 xs-width-100" data-wow-delay="0.2s" id="tz-slider-text8 color-white">Will it easy? Nope. Worth it? Absolutely.</div>
                                 </div>
                             </div>
                         </div>
@@ -146,8 +146,8 @@
     </section>
     <section class="bg-black builder-bg padding-110px-tb no-padding-top xs-padding-60px-tb border-none" id="pricing-table4">
         <div class="container">
-            <div class="row">
-                <div class="pricing-box-style4 display-inline-block width-100">
+            <div class="row equalize row-eq-height">
+                <div class="pricing-box-style4 display-inline-block width-100 row row-eq-height">
                     <!-- pricing item -->
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center xs-margin-nine-bottom">
                         <div class="wow zoomIn pricing-box builder-bg tz-border border-none bg-dark-gray2">

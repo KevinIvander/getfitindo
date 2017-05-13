@@ -1,5 +1,7 @@
-#contact-section7{
-	background-attachment: fixed;
-	background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.85)), url({{ asset('images/bg-image/hero-bg3.jpg'); }})
+.color-white{
+	color: white !important;
 }
 
+body{
+	color: white;
+}
