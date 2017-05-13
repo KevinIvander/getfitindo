@@ -66,11 +66,18 @@
                     <div class="col-sm-offset-1 col-sm-11">
                         <div class="timeline-panel debits">
                     @endif
-                            <ul class="timeline-panel-ul">
-                                <li><span class="importo">{{$data->event_title}}</span></li>
-                                <li><span class="causale">{!!substr($data->description,0,60)!!}...</span> </li>
-                                <li><p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> {{$data->start_date}}</small></p> </li>
-                            </ul>
+                            <div class="row">
+                                <div class="col-xs-6 col-sm-6 padding-bottom-5px">
+                                    <img class="event-image" src="{{ config('app.url')}}{{ $data->profil_picture }}">
+                                </div>
+                                <div class="col-xs-6 col-sm-6">
+                                    <ul class="timeline-panel-ul">
+                                        <li><span class="importo">{{$data->event_title}}</span></li>
+                                        <li><span class="causale">{!!substr($data->description,0,60)!!}...</span> </li>
+                                        <li><p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> {{$data->start_date}}</small></p> </li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

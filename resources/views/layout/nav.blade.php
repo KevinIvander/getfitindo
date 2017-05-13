@@ -21,6 +21,7 @@
                         <li class="wow fadeIn propClone" data-wow-delay="0.6s"><a href="{{ url('/team') }}">TEAM</a></li>
                         <li class="wow fadeIn propClone" data-wow-delay="0.8s"><a href="{{ url('/eventandtips') }}">EVENT & TIPS</a></li>
                         <li class="wow fadeIn propClone" data-wow-delay="1.0s"><a href="{{ url('/contact') }}">CONTACT</a></li>
+                        <li class="wow fadeIn propClone" data-wow-delay="1.0s"><a href="{{ url('/member') }}">MEMBER</a></li>
                     </ul>
                 </div>
             </div>

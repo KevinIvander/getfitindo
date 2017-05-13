@@ -114,3 +114,12 @@
   color: rgba(226, 0, 194, 0.71);
   font-size: 1.3em;
 }
+
+.event-image{
+    width: 100% !important;
+    height: 230px;
+}
+
+.padding-bottom-5px{
+  padding-bottom: 5px;  
+}
